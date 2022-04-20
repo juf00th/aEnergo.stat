@@ -1,0 +1,1 @@
+{"pathopen": "/data/energo.stat/Nikotex_20210408.txt", "pathsave": "/network/docs/ArT/123"}
